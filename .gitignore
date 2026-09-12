@@ -1,0 +1,10 @@
+# 看板生成产物：含本机会话标题、工作区路径等私有数据，不入库
+token-dashboard.html
+看板.html
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
